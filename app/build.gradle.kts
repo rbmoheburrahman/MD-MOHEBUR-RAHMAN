@@ -1,3 +1,4 @@
+
 plugins {
   alias(libs.plugins.android.application)
   alias(libs.plugins.kotlin.compose)
@@ -44,7 +45,7 @@ android {
       signingConfig = signingConfigs.getByName("release")
     }
     debug {
-      signingConfig = signingConfigs.getByName("debugConfig")
+      // গিটহাব ক্লাউড বিল্ডের সুবিধার জন্য এখান থেকে এরর দেওয়া লাইনটি বাদ দেওয়া হয়েছে
     }
   }
   compileOptions {
