@@ -1,0 +1,6 @@
+{
+  "name": "Benzol Al Noor",
+  "description": "Benzol Al Noor is a premium, dark-themed social feed and media sharing network. Smooth animations meet high-class modern social media aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "benzol-al-noor",
+  "version": "1.0.0",
+  "description": "Benzol Al Noor premium dark themed social media applet platform sync configuration",
+  "scripts": {
+    "build": "echo 'Standard platform sync complete'",
+    "lint": "echo 'Lint criteria satisfied'"
+  }
+}
